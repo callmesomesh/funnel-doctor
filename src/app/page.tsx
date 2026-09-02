@@ -105,8 +105,9 @@ export default function Page() {
       <footer className="footer">
         <span>Somesh Samanta — GTM &amp; growth systems</span>
         <a href="https://github.com/callmesomesh/funnel-doctor">source + tests on GitHub</a>
-        <a href="https://daily-pulse-demo-someshs-projects-04586766.vercel.app">Daily Pulse →</a>
-        <a href="https://leadflow-demo-someshs-projects-04586766.vercel.app">LeadFlow →</a>
+        <a href="https://daily-pulse-demo.vercel.app">Daily Pulse →</a>
+        <a href="https://somesh-leadflow.vercel.app">LeadFlow →</a>
+        <a href="https://somesh-systems.vercel.app">all systems →</a>
       </footer>
     </div>
   );
